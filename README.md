@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://github.com/Joe22313)
 <h1 align="center">Name: Steven Joe C. Villavicencio</h1>
 <h3 align="center">A 4th Year Computer Science Student at Holy Angel University</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-working-computer-mcf5woa92v8rxgim.webp">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/95a8f8600af35a1848f10a6d8caf6db62d1d46bee79f0f0055719ba4d0fac628/68747470733a2f2f7777772e6d79776562776f726c642e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f7765622d64657369676e2d6b6572616c612e676966">
 
 - 🌱 I’m currently learning **About Graphic Designing**
 
