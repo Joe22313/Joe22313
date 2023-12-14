@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **About Graphic Designing**
 
-- 👨‍💻 All of my projects are available at [Joe-22.github.io/portfolio/](Joe-22.github.io/portfolio/)
-
 - 💬 Ask me about **Python, Java, Flutter**
 
 - 📫 How to reach me **stevenjoevillavicencio8@gmail.com**
